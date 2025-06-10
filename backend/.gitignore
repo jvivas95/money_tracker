@@ -1,0 +1,19 @@
+# Composer dependencias
+/vendor/
+
+# Entornos y configuración sensible
+.env
+.env.*
+
+# Archivos de logs
+*.log
+
+# Archivos temporales y de caché
+/tmp/
+.cache/
+.idea/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
